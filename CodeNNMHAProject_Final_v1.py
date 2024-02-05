@@ -40,8 +40,8 @@ def load_data(image_directory, csv_file, image_extension='.png', image_size=(64,
     return np.array(images, dtype=np.float32), np.array(angles, dtype=np.float32)
 
 # Specify the directory for images and csv file
-image_dir = 'C:/Users/Asus/OneDrive/Desktop/NNMHA/generated_images'
-csv_file = 'C:/Users/Asus/OneDrive/Desktop/NNMHA/rectangle_angles.csv'
+image_dir = './generated_images'
+csv_file = './rectangle_angles.csv'
 
 # Call the load_data function to load images and angles
 images, angles = load_data(image_dir, csv_file)
