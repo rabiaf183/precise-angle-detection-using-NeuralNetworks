@@ -6,8 +6,8 @@ import csv
 import os
 
 # Define the file to save images
-image_folder = '.\generated_images'
-csv_filename = '.\rectangle_angles.csv'
+image_folder = './generated_images'
+csv_filename = './rectangle_angles.csv'
 
 # Create the image folder if it doesn't exist
 os.makedirs(image_folder, exist_ok=True)
