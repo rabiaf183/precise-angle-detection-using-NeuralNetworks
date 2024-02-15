@@ -4,11 +4,12 @@ The reposirory contains both the dataset file and the model file. The dataset fi
 
 ### Learning Curve
 >This graph represents our model's learning graph.
-<img src=" https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/b0792525-9cf9-431a-a984-7692dac63e4d " width="400" >
+<img src="  " width="400" >
+<img src="https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/b0792525-9cf9-431a-a984-7692dac63e4d" width="128"/>
  
 ## Installation 
 To run the code, you need to install few basic dependencies.
->For python related libraries you can simply install with Pip command.
+>ou can isntall these libraries using pip command.
 >To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
 
 ```
