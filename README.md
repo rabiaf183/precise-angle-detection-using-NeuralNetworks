@@ -7,8 +7,8 @@ This graph represents our model's learning graph.
 ![Screenshot from 2024-02-15 22-06-28 |500](https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/e3c9be81-b874-47f5-bd7c-56ee1f269d8e) 
 
 > To run the code, you need to install few basic dependencies.
-> For python related libraries you can simply install with Pip command.
->>To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
+For python related libraries you can simply install with Pip command.
+To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
 ## Installation
 ```
 pip 
