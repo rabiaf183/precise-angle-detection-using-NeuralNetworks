@@ -11,15 +11,31 @@ The reposirory contains both the dataset file and the model file. The dataset fi
 To run the code, you need to install few basic dependencies.
 >most of the commands can be isntalled using pip.
 >To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
-> To perform complex computation we have used numpy
+> To perform complex computation we have used numpy.
 
 ```
 pip install numpy
 ```
-> For data manipulation we have used pandas
+> For data manipulation we have used pandas.
 ```
 pip install pandas
 ```
+> for machine learning tasks we have used torch. To install torch we first create a virtual environment.
+ ```
+sudo apt update
+sudo apt install python3-venv -y
+mkdir pytorch_env
+cd pytorch_env
+python3 -m venv pytorch_env
+source pytorch_env/bin/activate
+```
+>Now with your virtual environment activated, you can go on to install PyTorch on your Ubuntu system.
+```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
+
+
+
 
  
 
