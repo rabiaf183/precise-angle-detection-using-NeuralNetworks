@@ -33,12 +33,13 @@ source pytorch_env/bin/activate
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 ```
-> For statistical modelling we have used sklearn
+> For statistical modelling we have used sklearn.
 ```
 pip install -U scikit-learn
 ```
 > with all these dependencies you can run the following code. The model has been trained by batch gradient for about 200 epochs. Thus we get a training time of around 3 minuntes on a simple machine without GPU support.
 ## Results
+Our model shows the MSE of around 8% which reflects the models behavior on unseen data accurately.
 
 
 
