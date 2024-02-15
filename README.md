@@ -5,7 +5,8 @@
 > The model is based on a [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) combined with [MLP layers](https://en.wikipedia.org/wiki/Multilayer_perceptron) to optimize the traning. 
 
 > This graph represents our model's learning graph.
-> <img src='/home/rabia/Downloads/learning_curve.png' width='150'>
+> <img src="![learning_curve](https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/a67b93fb-ef81-448a-b051-b9c49245f8a9)
+" width="100" height="100">
 
 
 
