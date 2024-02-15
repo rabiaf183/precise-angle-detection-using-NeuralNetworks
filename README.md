@@ -5,7 +5,7 @@
 > The model is based on a [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) combined with [MLP layers](https://en.wikipedia.org/wiki/Multilayer_perceptron) to optimize the traning. 
 
 > This graph represents our model's learning graph.
-> <img src='/home/rabia/Downloads/learning_curve' width='150'>
+> <img src='/home/rabia/Downloads/learning_curve.png' width='150'>
 
 
 
