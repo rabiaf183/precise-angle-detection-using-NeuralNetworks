@@ -5,8 +5,9 @@
 > The model is based on a [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) combined with [MLP layers](https://en.wikipedia.org/wiki/Multilayer_perceptron) to optimize the traning. 
 
 > This graph represents our model's learning graph.
-> ![learning_curve](https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/dfa8822b-aaf2-4397-8f0a-e78d9bb3761c)
- )
+> <img src="![learning_curve](https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/068d9885-f36d-44fd-9b8b-40dddf4f03f0)
+" width="200" height="200" />
+
 
 > To run the code, you need to install few basic dependencies.
 > For python related libraries you can simply install with Pip command. 
