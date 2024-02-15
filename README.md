@@ -9,11 +9,16 @@ The reposirory contains both the dataset file and the model file. The dataset fi
  
 ## Installation 
 To run the code, you need to install few basic dependencies.
->ou can isntall these libraries using pip command.
+>most of the commands can be isntalled using pip.
 >To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
+> To perform complex computation we have used numpy
 
 ```
 pip install numpy
+```
+> For data manipulation we have used pandas
+```
+pip install pandas
 ```
 
  
