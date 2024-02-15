@@ -8,4 +8,5 @@
 ![Screenshot from 2024-02-15 19-59-08](https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/7389e9a6-0d52-4a25-aaff-f1a9df5b4208)
 
 > To run the code, you need to install few basic dependencies.
-> For python related libraries you can simply install with Pip command. 
+> For python related libraries you can simply install with Pip command.
+> To insall Pip [follow ](https://pip.pypa.io/en/stable/installation/). 
