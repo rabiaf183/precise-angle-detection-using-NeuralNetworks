@@ -1,7 +1,6 @@
 # Precise Angle Detection of Rectangles Using Neural Networks
 ## Introduction
-> The repository contains a code for the dataset code as well as the model code of neural network for precise angle detection.
-> The dataset file generates 1200 grey scale imgaes for our training model. This also includes a corresponding angles labels in a csv file.
+> The "DatasetGeneratorFinal" is used to generate a dataset of 1200 images along with a CSV file with the image name and their corresponding label since this is used for a supervised learning algorithm. The dataset generator can be modified to create more than 1200 images. And, the angle for the rectangle is varied between -10 to +10 degrees. To avoid the overfitting issues during the training, we have made the images randomly move in the display. So, the center co-ordinate for the rectangle is not uniformly distributed. 
 > The model is based on a [convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network) combined with [MLP layers](https://en.wikipedia.org/wiki/Multilayer_perceptron) to optimize the traning.
 
 ### Learning Curve
