@@ -20,7 +20,7 @@ pip install numpy
 ```
 pip install pandas
 ```
-> for machine learning tasks we have used torch. To install torch we first create a virtual environment.
+> For machine learning tasks we have used torch. To install torch we first create a virtual environment.
  ```
 sudo apt update
 sudo apt install python3-venv -y
@@ -32,6 +32,10 @@ source pytorch_env/bin/activate
 >Now with your virtual environment activated, you can go on to install PyTorch on your Ubuntu system.
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+```
+> For statistical modelling we have used sklearn
+```
+pip install -U scikit-learn
 ```
 
 
