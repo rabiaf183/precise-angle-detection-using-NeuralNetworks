@@ -9,4 +9,4 @@
 
 > To run the code, you need to install few basic dependencies.
 > For python related libraries you can simply install with Pip command.
-> To insall Pip [follow ](https://pip.pypa.io/en/stable/installation/). 
+>>To install Pip [follow ](https://pip.pypa.io/en/stable/installation/).
