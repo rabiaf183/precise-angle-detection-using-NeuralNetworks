@@ -4,7 +4,7 @@ The reposirory contains both the dataset file and the model file. The dataset fi
 
 ### Learning Curve
 This graph represents our model's learning graph.
-<img src="https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/e3c9be81-b874-47f5-bd7c-56ee1f269d8e " width="800">
+<img src="https://github.com/rabiaf183/precise-angle-detection-using-NeuralNetworks/assets/58448531/e3c9be81-b874-47f5-bd7c-56ee1f269d8e " width="400">
 
 
 > To run the code, you need to install few basic dependencies.
