@@ -13,7 +13,8 @@ To run the code, you need to install few basic dependencies.
 >To install Pip follow this [link](https://pip.pypa.io/en/stable/installation/).
 
 ```
-pip 
+pip install numpy
+```
 
  
 
